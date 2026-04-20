@@ -19,13 +19,13 @@ Days between events
 Time gaps
 Duration-based features
 #### 📊 Feature Extraction from Dates
-Generated new features such as:
-Year
-Month
-Day
-Weekday
-Weekend indicator
+- Generated new features such as:
+- Year
+- Month
+- Day
+- Weekday
+- Weekend indicator
 #### 🛠️ Tech Stack
-Python 🐍
-Pandas
-NumPy
+- Python 🐍
+- Pandas
+- NumPy
